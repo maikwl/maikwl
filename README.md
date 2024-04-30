@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maikwl
-- 👀 I’m interested in economics, data/urban/space science, sustainability and mixing drinks among other things
-- 🌱 I’m currently learning more things about causality, urban form, and
-- 💞️ I’m looking to collaborate on developing resources for learning econometrics and quantitative methods in Economics
+- 👀 I’m interested in economics, data/urban/space science, sustainability and mixing drinks among other things.
+- 🌱 I’m currently learning more things about causality, urban form, and networks.
+- 💞️ I’m looking to collaborate on developing resources for learning econometrics and quantitative methods in Economics.
 - 📫 How to reach me: mfragkias@gmail.com
 
 <!---
